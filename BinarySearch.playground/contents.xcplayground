@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='BinarySearch'/>
+        <page name='BinarySearch on Reverse Sorted Array'/>
+        <page name='Order Agnostic Search'/>
+        <page name='First and Last occurrence of an Element'/>
+        <page name='CountOfAnElementInASortedArray'/>
+        <page name='Number of Times a Sorted array is Rotated'/>
+        <page name='Find an element in a Rotated Sorted Array'/>
+        <page name='Searching in a Nearly Sorted Array'/>
+        <page name='Find Floor of an element in a Sorted Array'/>
+        <page name='Ceil of an element in a Sorted Array'/>
+        <page name='Next Alphabetical Element'/>
+    </pages>
+</playground>
