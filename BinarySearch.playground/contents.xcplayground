@@ -12,5 +12,11 @@
         <page name='Find Floor of an element in a Sorted Array'/>
         <page name='Ceil of an element in a Sorted Array'/>
         <page name='Next Alphabetical Element'/>
+        <page name='Minimum Difference Element in a Sorted Array'/>
+        <page name='Peak Element'/>
+        <page name='Find maximum element in Bitonic Array'/>
+        <page name='Search An Element in Bitonic Array'/>
+        <page name='Search in Row wise And Column wise Sorted Array'/>
+        <page name='Allocate minimum number of pages'/>
     </pages>
 </playground>
